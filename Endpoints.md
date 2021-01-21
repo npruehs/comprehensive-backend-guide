@@ -1,0 +1,3 @@
+# Endpoints
+
+* Global Exception Handling
