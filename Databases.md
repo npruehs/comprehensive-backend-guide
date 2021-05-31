@@ -8,3 +8,6 @@
 * Flyway
 * Repositories
 * Seeding
+* Transactional
+* Indices
+* Unique Constraints (prevent concurrent thread/application access issues)

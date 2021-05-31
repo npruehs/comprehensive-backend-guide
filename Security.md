@@ -1,3 +1,4 @@
 # Security
 
 * WebSecurityConfig
+* CORS
