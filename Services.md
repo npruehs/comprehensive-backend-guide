@@ -1,2 +1,3 @@
 # Services
 
+* Case-sensitivity
